@@ -4,6 +4,8 @@ Hi! I'm Tarunyaa Sivakumar and I'm a Student at the University of Pennsylvania m
 
 PS: You might be wondering why I've given my personal website such a strange name. To find out, [read more about me](https://tarunyaa.github.io/#more-about-me).
 
+- [Penngineering Projects](Penngineering Projects.md)
+
 ## neuro42 Projects
 
 ## Physics Projects
