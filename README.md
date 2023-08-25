@@ -5,5 +5,6 @@ If you've come to learn more about me and what I do, you're at the right place. 
 <p align="center">
 [Penngineering Projects](https://tarunyaa.github.io/penngineering-projects/) 🦾  neuro42 Projects 🧠  Physics Projects 🔭  Science Communication Projects 🗣
 </p> 
-PS: You might be wondering why I've given my personal website such a strange name. To find out, [read more about me](https://tarunyaa.github.io/#more-about-me).
+
+PS: You might be wondering why I've given my personal website such a strange name. To find out, [read more about me](https://tarunyaa.github.io/more-about-me/).
 
