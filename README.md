@@ -7,4 +7,4 @@ If you've come to learn more about me and what I do, you're at the right place. 
 
 PS: You might be wondering why I've given my personal website such a strange name. To find out, [read more about me](https://tarunyaa.github.io/more-about-me/).
 
-|[Github](https://github.com/tarunyaa) | [Linkedin](https://www.linkedin.com/in/tarunyaa-sivakumar-4847501a6/) | <span style="color:blue">Email: tarunyaa@seas.upenn.edu</span> |
+|[Github](https://github.com/tarunyaa) | [Linkedin](https://www.linkedin.com/in/tarunyaa-sivakumar-4847501a6/) |Email: tarunyaa@seas.upenn.edu |
